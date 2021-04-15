@@ -2,13 +2,13 @@
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). 
 
-![Screenshot from 2021-04-14 17-18-01](/home/tarotaro/Pictures/Screenshot from 2021-04-14 17-18-01.png)
+![Screenshot from 2021-04-14 17-18-01](/home/tarotaro/Desktop/3-column-page-master/screenshots/Screenshot from 2021-04-14 17-18-01.png)
 
-![Screenshot from 2021-04-14 17-18-15](/home/tarotaro/Pictures/Screenshot from 2021-04-14 17-18-15.png)
+![Screenshot from 2021-04-14 17-18-15](/home/tarotaro/Desktop/3-column-page-master/screenshots/Screenshot from 2021-04-14 17-18-15.png)
 
-![Screenshot from 2021-04-14 17-18-18](/home/tarotaro/Pictures/Screenshot from 2021-04-14 17-18-18.png)
+![Screenshot from 2021-04-14 17-18-18](/home/tarotaro/Desktop/3-column-page-master/screenshots/Screenshot from 2021-04-14 17-18-18.png)
 
-## Table of contents
+Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
@@ -34,15 +34,17 @@ Users should be able to:
 
 **Mobile-Layout:**
 
-![image-20210414171253381](/home/tarotaro/.config/Typora/typora-user-images/image-20210414171253381.png)
+![image-20210414193423694](/home/tarotaro/.config/Typora/typora-user-images/image-20210414193423694.png)
+
+
 
 **Desktop Layout:** 
 
-![Screenshot from 2021-04-14 17-24-00](/home/tarotaro/Pictures/Screenshot from 2021-04-14 17-24-00.png)
+![image-20210414193324067](/home/tarotaro/.config/Typora/typora-user-images/image-20210414193324067.png)
 
 **Active state :hover**
 
-### ![Screenshot from 2021-04-14 16-25-31](/home/tarotaro/Pictures/Screenshot from 2021-04-14 16-25-31.png)
+### ![Screenshot from 2021-04-14 16-25-31](/home/tarotaro/Desktop/3-column-page-master/screenshots/Screenshot from 2021-04-14 16-25-31.png)
 
 
 
