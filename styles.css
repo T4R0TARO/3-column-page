@@ -45,7 +45,7 @@ h2 {
     margin-bottom: 2rem;
 }
 
-/* MAIN TEXT STYLES */
+/* MAIN CARD STYLES */
 
 .main_section {
     display: flex;
@@ -62,52 +62,60 @@ h2 {
 
 .sedan_card {
     background: var(--sedan-bkg-color);
-    /* display: flex;
-    flex-direction: center;
-    align-items: center; */
 }
 
 .suv_card {
     background: var(--suv-bkg-color);
-    /* display: flex;
-    flex-direction: center;
-    align-items: center; */
 }
 
 .luxury_card {
     background: var(--lux-bkg-color);
-    /* display: flex;
-    flex-direction: center;
-    align-items: center; */
 }
 
 /* BUTTON STYLES */
+/* :hover will give transparent effect */
 
 button {
-    padding: 20px;
+    padding: 20px 50px;
     border-radius: 2.25rem;
     border: none;
 }
 .sed_btn {
     color: var(--sedan-bkg-color)
 }
-
+.sed_btn:hover {
+    border: 2px #fff solid;
+    color: #fff;
+}
 .suv_btn {
     color: var(--suv-bkg-color)
 }
-
+.suv_btn:hover {
+    border: 2px #fff solid;
+    color: #fff;
+}
 .lux_btn {
     color: var(--lux-bkg-color)
 }
+.lux_btn:hover {
+    border: 2px #fff solid;
+    color: #fff;
+}
+/* This media querey will
+    * Change mobile styles to desktop styles
+    * Increase card_text elements
+    * Increase img size
+    * Increase button size
+    * Implement desktop styles when the browser is at least 800px
+*/
 
-
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 856px) {
     .main_section {
         display: flex;
         flex-direction: row;
         height: 100vh;
     }
-    
+
     .column {
         width: 33.33%;
     }
@@ -116,26 +124,22 @@ button {
         height: 50px;
         width: auto;
     }
+
     .card_text {
         max-width: 17.7rem;
     }
+
     h2 {
         font-size: 3.5rem;
     }
-    button {
-        padding: 20px 50px;
-        border-radius: 2.25rem;
-        border: none;
-    }
+
+
+
     p {
         font-size: 19px;
         margin-bottom: 8rem;
     }
-
-    
-
 }
-
 
 /* MAIN FOOTER*/
 .attribution {
