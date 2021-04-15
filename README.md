@@ -1,12 +1,13 @@
 # Frontend Mentor - 3-column preview card component solution
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). 
+This is a solution to the [3-column preview card component challenge on Frontend Mentor]
 
-![Screenshot from 2021-04-14 17-18-01](/home/tarotaro/Desktop/3-column-page-master/screenshots/Screenshot from 2021-04-14 17-18-01.png)
+![Screenshot from 2021-04-14 17-18-01](https://user-images.githubusercontent.com/76195521/114807017-8346ba00-9d5a-11eb-9c33-1c1e1a26f58c.png)
 
-![Screenshot from 2021-04-14 17-18-15](/home/tarotaro/Desktop/3-column-page-master/screenshots/Screenshot from 2021-04-14 17-18-15.png)
+![Screenshot from 2021-04-14 17-18-15](https://user-images.githubusercontent.com/76195521/114807239-ed5f5f00-9d5a-11eb-9aea-ff818562bced.png)
 
-![Screenshot from 2021-04-14 17-18-18](/home/tarotaro/Desktop/3-column-page-master/screenshots/Screenshot from 2021-04-14 17-18-18.png)
+![Screenshot from 2021-04-14 17-18-18](https://user-images.githubusercontent.com/76195521/114807272-f8b28a80-9d5a-11eb-961c-b6c0a91618c6.png)
+
 
 Table of contents
 
@@ -34,18 +35,20 @@ Users should be able to:
 
 **Mobile-Layout:**
 
-![image-20210414193423694](/home/tarotaro/.config/Typora/typora-user-images/image-20210414193423694.png)
+![Screenshot from 2021-04-14 17-18-18](https://user-images.githubusercontent.com/76195521/114807272-f8b28a80-9d5a-11eb-961c-b6c0a91618c6.png)
 
 
 
 **Desktop Layout:** 
 
-![image-20210414193324067](/home/tarotaro/.config/Typora/typora-user-images/image-20210414193324067.png)
+![Screenshot from 2021-04-14 17-24-00](https://user-images.githubusercontent.com/76195521/114807371-27306580-9d5b-11eb-9b4e-f3ed2a0989fd.png)
+
+
 
 **Active state :hover**
 
-### ![Screenshot from 2021-04-14 16-25-31](/home/tarotaro/Desktop/3-column-page-master/screenshots/Screenshot from 2021-04-14 16-25-31.png)
 
+![Screenshot from 2021-04-14 16-25-31](https://user-images.githubusercontent.com/76195521/114807401-30b9cd80-9d5b-11eb-89da-241e7bee219f.png)
 
 
 ### Links
