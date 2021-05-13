@@ -1,6 +1,7 @@
 /* CUSTOM PROPERTIES :dango: */
 
-:root {
+:root 
+{
     --sedan-bkg-color: hsl(31, 77%, 52%);
     --suv-bkg-color: hsl(184, 100%, 22%);
     --lux-bkg-color: hsl(179, 100%, 13%);
@@ -10,23 +11,27 @@
 
 /* BASE STYLES */
 
-html {
+html 
+{
     box-sizing: border-box;
     font-size: 100%;
 }
 
-*, *::before, *::after {
+*, *::before, *::after 
+{
     box-sizing: inherit;
     margin: 0px;
     padding: 0px;
 }
 
-body {
+body 
+{
     height: 100vh;
     font-size: 15px;
 }
 
-p {
+p 
+{
     color: var(--sub-txt-color);
     margin-bottom: 2rem;
     max-width: 27rem;
@@ -34,11 +39,13 @@ p {
 }
 
 p,
-button {
+button 
+{
     font-family: 'Lexend Deca', sans-serif;
 }
 
-h2 {
+h2 
+{
     font-family: 'Big Shoulders Display', cursive;
     font-size: 2.5rem;
     color: var(--main-txt-color);
@@ -47,57 +54,70 @@ h2 {
 
 /* MAIN CARD STYLES */
 
-.main_section {
+.main_section 
+{
     display: flex;
     flex-direction: column;  
 }
 
-.card_img {
+.card_img 
+{
     margin-bottom: 3rem;
 }
 
-.card_content {
+.card_content 
+{
     margin: 50px;
 }
 
-.sedan_card {
+.sedan_card 
+{
     background: var(--sedan-bkg-color);
 }
 
-.suv_card {
+.suv_card 
+{
     background: var(--suv-bkg-color);
 }
 
-.luxury_card {
+.luxury_card 
+{
     background: var(--lux-bkg-color);
 }
 
 /* BUTTON STYLES */
 /* :hover will give transparent effect */
 
-button {
+button 
+{
     padding: 20px 50px;
     border-radius: 2.25rem;
     border: none;
 }
-.sed_btn {
+.sed_btn 
+{
     color: var(--sedan-bkg-color)
 }
-.sed_btn:hover {
+.sed_btn:hover 
+{
     border: 2px #fff solid;
     color: #fff;
 }
-.suv_btn {
+.suv_btn 
+{
     color: var(--suv-bkg-color)
 }
-.suv_btn:hover {
+.suv_btn:hover 
+{
     border: 2px #fff solid;
     color: #fff;
 }
-.lux_btn {
+.lux_btn 
+{
     color: var(--lux-bkg-color)
 }
-.lux_btn:hover {
+.lux_btn:hover 
+{
     border: 2px #fff solid;
     color: #fff;
 }
@@ -109,47 +129,56 @@ button {
     * Implement desktop styles when the browser is at least 800px
 */
 
-@media screen and (min-width: 856px) {
-    .main_section {
+@media screen and (min-width: 856px) 
+{
+    .main_section 
+    {
         display: flex;
         flex-direction: row;
         height: 100vh;
     }
 
-    .column {
+    .column 
+    {
         width: 33.33%;
     }
 
-    img {
+    img 
+    {
         height: 50px;
         width: auto;
     }
 
-    .card_text {
+    .card_text 
+    {
         max-width: 17.7rem;
     }
 
-    h2 {
+    h2 
+    {
         font-size: 3.5rem;
     }
 
 
 
-    p {
+    p 
+    {
         font-size: 19px;
         margin-bottom: 8rem;
     }
 }
 
 /* MAIN FOOTER*/
-.attribution {
+.attribution 
+{
     position: fixed;
     bottom: 0;
     right: 0;
     text-align: center;
 }
 
-.attribution a {
+.attribution a 
+{
     color:lightseagreen;
     font-size: 12px;
 }
